@@ -1,0 +1,21 @@
+Dear Security Team,
+
+Name: 
+Vulnerability Identified: 
+
+I am writing to report a vulnerability that I have discovered on your website. After performing some testing, I have found an XSS (cross-site scripting) vulnerability on [page(s) or URL(s) where the vulnerability was found].
+
+This vulnerability could potentially allow an attacker to inject malicious code into your website, which could lead to various security risks for your users, including stealing sensitive information or taking control of their accounts.
+
+Here are the details of the vulnerability:
+
+Type of vulnerability: Cross-site scripting (XSS)
+Location: [Exact URL(s) where the vulnerability was found]
+Impact: [Describe the potential impact of the vulnerability]
+Steps to reproduce: [Provide steps to reproduce the vulnerability]
+I kindly request that you take immediate action to fix this vulnerability in order to protect your website and your users. If you need any assistance or more information, please let me know.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+[Your Name]
